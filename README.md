@@ -1,5 +1,5 @@
 
-PROJECT DESCRIPTION
+PROJECT DESCRIPTION-- IMDB movie analysis
 
 Performed an in-depth analysis of movie release trends and popularity using advanced SQL queries on the IMDb movies dataset.
 
