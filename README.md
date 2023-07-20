@@ -1,3 +1,6 @@
+
+PROJECT DESCRIPTION
+
 Performed an in-depth analysis of movie release trends and popularity using advanced SQL queries on the IMDb movies dataset.
 
 Completed a thorough database schema analysis, identifying tables, columns, and relationships to ensure data integrity. Handled missing or inconsistent values effectively.
